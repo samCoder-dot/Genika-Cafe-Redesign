@@ -1,0 +1,1 @@
+A complete homepage redesign for Genika Café (Washington, DC) — transforming the existing dated layout into a luxury editorial web experience that reflects the café's warm, classic elegance. Delivered as a single, self-contained HTML file requiring zero dependencies or build tools.
